@@ -2,7 +2,7 @@ import React from 'react';
 import posts from '../../../data/posts';
 import CardInfo from './CardInfo';
 
-const Card = () =>{
+const Card = () => {
     
     
     return (
