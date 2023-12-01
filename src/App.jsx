@@ -1,7 +1,7 @@
 
-import { Header } from './assets/components/Header/Header'
-import CardList from './assets/components/Cards/CardList'
-import Footer from './assets/components/Footer/Footer'
+import { Header } from './components/Header/Header'
+import CardList from './components/Cards/CardList'
+import Footer from './components/Footer/Footer'
 
 function App() {
 
